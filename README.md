@@ -1,114 +1,85 @@
 # My #100DaysOfCode Journey
 
-**Chandrika Deb**  
-*Software Engineer, Amdocs* 
+**Andrey Kudryavtsev**
+*Front-end Developer*
 
 ## Timeline
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
-|Day 1|May 30, 2020| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
-|Day 2|May 31, 2020| Kotlin Project: **Random Project Idea Generator** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
-|Day 3|June 1, 2020| Updated functionality of Project: **Face Mask Detection** | [Reference Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)|
-|Day 4|June 2, 2020| Major Project: **Face Mask Detection** | [Project Repo](https://github.com/chandrikadeb7/Face-Mask-Detection)|
-|Day 5|June 3, 2020| Python Lessons | |
-|Day 6|June 4, 2020| Submitted project for **30DaysOfKotlin** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
-|Day 7|June 5, 2020| Event **Coderantine** | Event Over :white_check_mark:|
-|Day 8|June 6, 2020| Learnt Kotlin extensions & generics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
-|Day 9|June 7, 2020| Letter Codepen | [View CodePen](https://codepen.io/chandrikadeb7/full/NWGgWNv)|
-||| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
-|Day 10|June 8, 2020| Published an article on **Geeksforgeeks** | [Visit Website](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)	|
-|Day 11|June 9, 2020| Portfolio Website Update | [Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/)|
-|Day 12|June 10, 2020| Beating Heart CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/yLYXBVg)|
-|Day 13|June 11, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-|||Train CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/LYGNNdo)|
-|||TV CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/RwraKxV)|
-|Day 14|June 12, 2020| Panda CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/JjGXZZx)|
-|Day 15|June 13, 2020| Jumping Dots CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/qBbNRvb)|
-|Day 16|June 14, 2020| Birthday Cake CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/MWKePJJ)|
-|Day 17|June 15, 2020| GitHub Future Maintainer's Award :star_struck:	| [View List](https://drive.google.com/file/d/1Rf9qwGklmIeM8R1yR20SiiAAo5Ntv19M/view?usp=sharing)|
-|Day 18|June 16, 2020| Preparing for final viva | :grin:|
-|Day 19|June 17, 2020|  *No-Code Day*| :face_with_thermometer:|
-|Day 20|June 18, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-|Day 21|June 19, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Python Web Scraping | |
-|Day 22|June 20, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Python Web Scraping | |
-|Day 23|June 21, 2020| Event **Coderantine** completed | Event Over :white_check_mark: |                     
-|Day 24|June 22, 2020| Solar Eclipse CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/rNxyZaJ)|   
-|Day 25|June 23, 2020| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-|Day 26|June 24, 2020| Liquid Loader CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/eYJRZXw)|
-||| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-|Day 27|June 25, 2020| Picture Frame CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/qBbjQqq)|
-||| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-|Day 28|June 26, 2020| Pure CSS Sunset CodePen | Updated :eyes:	| 
-||| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-|Day 29|June 27, 2020| Sunset CodePen with some SVG | [View CodePen](https://codepen.io/chandrikadeb7/full/QWyMOvJ)|
-|Day 30|June 28, 2020| Mentoring Session on **Effective Resume Building** | [See Slides](https://docs.google.com/presentation/d/1CgOyVOrniDx7wOL3NhYnFUefTJSjMwPPWRzELbd0jec/edit?usp=sharing)| 
-|Day 31|June 29, 2020| *No Code Day* | :see_no_evil:| 
-|Day 32|June 30, 2020| Implemented SVG to Sunset CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/QWyMOvJ) | 
-|Day 33|July 1, 2020| Completed Spring Boot Tutorial | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-||| Applied for **Google Season Of Docs**| :page_facing_up:|
-|Day 34|July 2, 2020| Portfolio Website Updated | :computer:| 
-||| Received **30DaysOfKotlin** Certificate| [View Certificate](https://drive.google.com/file/d/1Qj02X9fcF7IIHHbdG2WBGDLSDVCFPeVZ/view?usp=sharing)|
-|Day 35|July 3, 2020| Portfolio Website Deployed | [Visit Website](https://chandrikadeb7.github.io/)|
-||| Published an article| [Visit Website](https://www.educative.io/edpresso/github-for-beginners)|
-||| Event **Effective Resume & Online Profile Building** | Event Over :white_check_mark:| 
-|Day 36|July 4, 2020| Portfolio Website Mobile Version Responsive | [Visit Website](https://chandrikadeb7.github.io/)|
-|Day 37|July 5, 2020| Started CSS Placard Series | [View Collection](https://codepen.io/collection/DxypKO)|
-||| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Microservices Tutorial| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 38|July 6, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Microservices Tutorial| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 39|July 7, 2020| Pure CSS Resume CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/jOWzPNd)|
-|Day 40|July 8, 2020| Mentoring Session for Online Portfolio Building | [View Slides](https://docs.google.com/presentation/d/1WQXvYIE_Q1qESSDclLgZgJL4NJ98jD23tr8mMz7UT28/edit?usp=sharing)| 
-|Day 41|July 9, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Microservices Tutorial| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 42|July 10, 2020| Mentoring Session on **Effective Resume & Online Portfolio Building** | [View Slides](https://docs.google.com/presentation/d/1lWUtSAJx4Bl46Vrtt28Gn_SlRdGsO7JFZtbNIe3CX74/edit?usp=sharing)|
-|Day 43|July 11, 2020| Client Website Requirements Specifications | [Visit Website](https://caimconsulting.vercel.app/)| 
-|Day 44|July 12, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
-|Day 45|July 13, 2020| Client Website Deployed| [Visit Website](https://caimconsulting.vercel.app/)| 
-|Day 46|July 14, 2020| Technical Writer Interview | :woman_office_worker:| 
-|Day 47|July 15, 2020| Started intern **@iSmile Technologies** | [Offer Letter](https://drive.google.com/file/d/1atpaaCB4QXIas3Negexo6xhkS10nvoUy/view?usp=sharing)| 
-|Day 48|July 16, 2020| Website Content Update | [Visit Website](https://www.ismiletechnologies.com/)| 
-|Day 49|July 17, 2020| Received **GSSoC'20** Cerificate | [View Certificate](https://drive.google.com/file/d/19p1aLjFoMwbZXdO8MwYsNaITuQR5LFvT/view?usp=sharing) | 
-|Day 50|July 18, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
-|Day 51|July 19, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
-||| Microservices Tutorial Completed| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 52|July 20, 2020| Event **Pen in {CSS}** | [Register Now](https://tiny.cc/penincss)| 
-|Day 53|July 21, 2020| iSmile Technologies Brochure designed| [See brochure](https://www.canva.com/design/DAECn7IhUrg/QgVdCcdY0kI_Sb8jKGqEcw/view?utm_content=DAECn7IhUrg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | 
-||| CSS Pizza CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/MWKLWBX)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|Day 1|May 15, 2020| FreeCodeCamp: **Technical Documentation project** | [View Codepen](https://codepen.io/cat_logic/pen/jObvGpq)|
+||| FreeCodeCamp: **Personal Portfolio project** | [View Codepen](https://codepen.io/cat_logic/pen/LYpJqgr)|
+||| **Responsive Web Design** certificate | [View Certificate](https://www.freecodecamp.org/certification/catlogic/responsive-web-design)|
+|Day 2|May 16, 2020| JavaScript Basics | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 3|May 17, 2020| No-JS CSS slider and switcher | self-study|
+|Day 4|May 18, 2020| CSS Grid, Responsive layout | [Yandex Practicum](https://practicum.yandex.com/)|
+||| JavaScript ES6 | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 5|May 19, 2020| Practicum: **Russian Travel project** | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 6|May 20, 2020| Practicum: **Russian Travel project** | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 7|May 21, 2020| Practicum: **Russian Travel project** finished| [View Live](https://catlogic.ru/russian-travel/)|
+|Day 8|| Wrong count ||
+|Day 9|May 22, 2020| Mentor's AMA webinar | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 10|May 23, 2020| Corporate website refactoring (Joomla) ||
+|Day 11|May 24, 2020| Regular Expressions | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 12|May 25, 2020| Corporate website refactoring (Joomla) ||
+|Day 13|May 26, 2020| DOM | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
+|Day 14|May 27, 2020| Debugging, Basic Data Structures | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 15|May 28, 2020| Practicum: **Russian Travel project** refactoring | [View Live](https://catlogic.ru/russian-travel/)|
+||| Corporate website refactoring (Joomla) ||
+|Day 16|May 29, 2020| Corporate website refactoring (Joomla) ||
+|Day 17|May 30, 2020| Corporate website refactoring finished | [Restavrator.org](https://restavrator.org/)|
+|Day 18|May 31, 2020| Basic Algorithms | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 19|June 1, 2020| Basic Algorithms, OOP | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 20|June 2, 2020| CSS Grid | [Wes Bos' CSS Grid](https://cssgrid.io/)|
+|Day 21|June 3, 2020| BEM, Image Concepts articles | self-study|
+|Day 22|June 4, 2020| OOP, Functional Programming | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+||| CSS Grid | [Wes Bos' CSS Grid](https://cssgrid.io/)|
+|Day 23|June 5, 2020| CSS Grid | [Wes Bos' CSS Grid](https://cssgrid.io/)|
+|Day 24|June 7, 2020| jQuery basics | [The Web Developer Bootcamp (Udemy)](https://www.udemy.com/course/the-web-developer-bootcamp/)|
+|Day 25|June 8, 2020| Practicum: **Mesto project** part I | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 26|June 9, 2020| Practicum: **Mesto project** part I | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 27|June 10, 2020| Practicum: **Mesto project** part I finished | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 28|June 11, 2020| Git branches | [Learn Git Branching](https://learngitbranching.js.org/)|
+|Day 29|June 12, 2020| Local Web Development online event ||
+|Day 30|June 13, 2020| Personal: jQuery **To-Do list** | self-study|
+||| Code-along: **Galaxian game** | [View Codepen](https://codepen.io/cat_logic/pen/BajzLbe)|
+|Day 31|June 14, 2020| Webinars, JS Event object | self-study|
+|Day 32|June 16, 2020| Personal: jQuery **To-Do list** refactoring | [View Codepen](https://codepen.io/cat_logic/pen/dyGXJEm)|
+|Day 33|June 17, 2020| Personal: **CatLogic CL-001 Calculator** | self-study|
+|Day 34|June 18, 2020| Personal: **CatLogic CL-001 Calculator** | self-study|
+|Day 35|June 18, 2020| Personal: **Deus Ex Mankind Divided eBook** refactoring | [View Codepen](https://codepen.io/cat_logic/pen/dyGNWRz)|
+|Day 36|June 20, 2020| Functional Programming | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 37|June 22, 2020| Repeating JavaScript Basics | [Yandex Practicum](https://practicum.yandex.com/)|
+||| Personal: **CatLogic CL-001 Calculator** | self-study|
+|Day 38|June 23, 2020| Array and String methods, DOM, template tag; Practicum: **Mesto project** part II | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 39|June 24, 2020| Practicum: **Mesto project** part II finished| [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 40|June 25, 2020| Personal: **CatLogic CL-001 Calculator** | self-study|
+|Day 41|June 26, 2020| Personal: **CatLogic CL-001 Calculator** | self-study|
+|Day 41?|June 27, 2020| Personal: **CatLogic CL-001 Calculator** finished  | [View Codepen](https://codepen.io/cat_logic/pen/yLeoRYo)|
+|Day 42|June 28, 2020| Calculator fixes, JS challenges | self-study|
+|Day 43|June 29, 2020| Functional Programming, Intermediate Algorithm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 44|June 30, 2020| **Styling the CatLogic calculator in CSS** blog | [View Blog](https://dev.to/cat__logic/styling-the-catlogic-calculator-in-css-d7i)|
+|Day 45|July 1, 2020| Helping other students| [Yandex Practicum](https://practicum.yandex.com/)|
+||July 2, 2020| Personal: Princess Bubblegum animation| [View Codepen](https://codepen.io/cat_logic/pen/jOWYEwJ)|
+|Day 46|July 3, 2020| Intermediate Algorithm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 47|July 4, 2020| Intermediate Algorithm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 48|July 5, 2020| FreeCodeCamp: JavaScript projects | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+|Day 49|July 6, 2020| FreeCodeCamp: JavaScript projects | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+||| OOP, mentor's webinar | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 50|July 7, 2020| **JavaScript Algorithms and Data Structures** certificate | [View Certificate](https://www.freecodecamp.org/certification/catlogic/javascript-algorithms-and-data-structures)|
+|Day 51|July 8, 2020| Practicum: **Mesto project** part III finished | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 52|| Wrong count ||
+|Day 53|July 10, 2020| **Copying Arrays and Objects** blog | [View Blog](https://dev.to/cat__logic/copying-arrays-and-objects-4cid)|
+|Day 54|July 11, 2020| DOM | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
+|Day 55|July 12, 2020| DOM | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
+|Day 56|July 14, 2020| Repeating Array methods. Set, Map, WeakSet, WeakMap | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
+|Day 57|July 15, 2020| Personal: Clock project (cancelled) | self-study|
+|Day 58|July 17, 2020| OOP: Classes, constructor + webinar | self-study|
+|Day 59|July 18, 2020| Personal: **CatLogic Clock** | self-study|
+|Day 60|July 19, 2020| Practicum: **Mesto project** part IV | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 61|July 20, 2020| Practicum: **Mesto project** part IV | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 62|July 21, 2020| Practicum: **Mesto project** part IV finished | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 63|July 22, 2020| OOP: Classes | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
+|Day 64|July 23, 2020| Personal: **CatLogic Clock** finished | [View Codepen](https://codepen.io/cat_logic/pen/mdVoeaJ)|
+|Day 65|July 25, 2020| 100DaysOfCode List (you're seeing it) ||
+||| OOP: Classes | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
