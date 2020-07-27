@@ -56,7 +56,7 @@
 |Day 40|June 25, 2020| Personal: **CatLogic CL-001 Calculator** | self-study|
 |Day 41|June 26, 2020| Personal: **CatLogic CL-001 Calculator** | self-study|
 |Day 41?|June 27, 2020| Personal: **CatLogic CL-001 Calculator** finished  | [View Codepen](https://codepen.io/cat_logic/pen/yLeoRYo)|
-|Day 42|June 28, 2020| Calculator fixes, JS challenges | self-study|
+|Day 42|June 28, 2020| CatLogic Calculator fixes, JS challenges | self-study|
 |Day 43|June 29, 2020| Functional Programming, Intermediate Algorithm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
 |Day 44|June 30, 2020| **Styling the CatLogic calculator in CSS** blog | [View Blog](https://dev.to/cat__logic/styling-the-catlogic-calculator-in-css-d7i)|
 |Day 45|July 1, 2020| Helping other students| [Yandex Practicum](https://practicum.yandex.com/)|
@@ -83,3 +83,5 @@
 |Day 64|July 23, 2020| Personal: **CatLogic Clock** finished | [View Codepen](https://codepen.io/cat_logic/pen/mdVoeaJ)|
 |Day 65|July 25, 2020| 100DaysOfCode List (you're seeing it) ||
 ||| OOP: Classes | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
+|Day 66|July 26, 2020| CatLogic Clock fixes | self-study|
+||| **Explaining JavaScript 'this' to my cat** blog| [View Blog](https://dev.to/cat__logic/explaining-javascript-this-to-my-cat-1kig)|
