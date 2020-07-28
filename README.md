@@ -85,3 +85,5 @@
 ||| OOP: Classes | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
 |Day 66|July 26, 2020| CatLogic Clock fixes | self-study|
 ||| **Explaining JavaScript 'this' to my cat** blog| [View Blog](https://dev.to/cat__logic/explaining-javascript-this-to-my-cat-1kig)|
+|Day 67|July 27, 2020| OOP: Prototype | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
+|Day 68|July 28, 2020| OOP: Classes practice | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
