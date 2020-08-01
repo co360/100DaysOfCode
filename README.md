@@ -88,3 +88,6 @@
 |Day 67|July 27, 2020| OOP: Prototype | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
 |Day 68|July 28, 2020| OOP: Classes practice | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)|
 |Day 69|July 29, 2020| SCSS/SASS | [SASS Workflow (Udemy)](https://www.udemy.com/course/sass-workflow/)|
+|Day 70|July 30, 2020| SCSS/SASS | [SASS Workflow (Udemy)](https://www.udemy.com/course/sass-workflow/)|
+||| Git Essentials | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
+|Day 71|July 31, 2020| Intro to Node.js, NPM, Webpack | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
