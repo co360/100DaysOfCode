@@ -91,3 +91,6 @@
 |Day 70|July 30, 2020| SCSS/SASS | [SASS Workflow (Udemy)](https://www.udemy.com/course/sass-workflow/)|
 ||| Git Essentials | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
 |Day 71|July 31, 2020| Intro to Node.js, NPM, Webpack | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
+|Day 72|August 1, 2020| Bootstrap, jQuery, SASS | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
+||| CSS architecture, Webpack | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
+|Day 73|August 2, 2020| Node.js | [Youtube](https://www.youtube.com/watch?v=3aGSqasVPsI) (in Russian)|
