@@ -96,3 +96,4 @@
 |Day 73|August 2, 2020| Node.js | [Youtube](https://www.youtube.com/watch?v=3aGSqasVPsI) (in Russian)|
 |Day 74|August 3, 2020| Practicum: **Mesto project** part V | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 75|August 4, 2020| Practicum: **Mesto project** part V | [Yandex Practicum](https://practicum.yandex.com/)|
+||| **Modal windows (pop-up) recipe** blog| [View Blog](https://dev.to/cat__logic/modal-windows-pop-up-recipe-html-css-js-bdf)|
