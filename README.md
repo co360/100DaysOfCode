@@ -94,3 +94,5 @@
 |Day 72|August 1, 2020| Bootstrap, jQuery, SASS | [FreeCodeCamp](https://www.freecodecamp.org/learn)|
 ||| CSS architecture, Webpack | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
 |Day 73|August 2, 2020| Node.js | [Youtube](https://www.youtube.com/watch?v=3aGSqasVPsI) (in Russian)|
+|Day 74|August 3, 2020| Practicum: **Mesto project** part V | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 75|August 4, 2020| Practicum: **Mesto project** part V | [Yandex Practicum](https://practicum.yandex.com/)|
