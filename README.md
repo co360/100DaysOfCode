@@ -97,3 +97,5 @@
 |Day 74|August 3, 2020| Practicum: **Mesto project** part V | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 75|August 4, 2020| Practicum: **Mesto project** part V | [Yandex Practicum](https://practicum.yandex.com/)|
 ||| **Modal windows (pop-up) recipe** blog| [View Blog](https://dev.to/cat__logic/modal-windows-pop-up-recipe-html-css-js-bdf)|
+|Day 75|August 6, 2020| Webpack webinar | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 76|August 7, 2020| DOM: positioning | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
