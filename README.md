@@ -99,3 +99,5 @@
 ||| **Modal windows (pop-up) recipe** blog| [View Blog](https://dev.to/cat__logic/modal-windows-pop-up-recipe-html-css-js-bdf)|
 |Day 76|August 6, 2020| Webpack webinar | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 77|August 7, 2020| DOM: positioning | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+|Day 78|August 8, 2020| DOM: history, location, navigation; timers, Date, Error | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+||| Personal portfolio concept | self-study|
