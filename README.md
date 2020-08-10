@@ -101,3 +101,5 @@
 |Day 77|August 7, 2020| DOM: positioning | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
 |Day 78|August 8, 2020| DOM: history, location, navigation; timers, Date, Error | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
 ||| Personal portfolio concept | self-study|
+|Day 79|August 9, 2020| Personal portfolio | self-study|
+|Day 80|August 10, 2020| Events, Drag & Drop | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
