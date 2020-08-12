@@ -103,3 +103,5 @@
 ||| Personal portfolio concept | self-study|
 |Day 79|August 9, 2020| Personal portfolio | self-study|
 |Day 80|August 10, 2020| Events, Drag & Drop | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+|Day 81|August 11, 2020| Advanced functions | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+|Day 82|August 12, 2020| Strings, Numbers, RegExp revisited | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
