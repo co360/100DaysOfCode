@@ -105,3 +105,5 @@
 |Day 80|August 10, 2020| Events, Drag & Drop | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
 |Day 81|August 11, 2020| Advanced functions | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
 |Day 82|August 12, 2020| Strings, Numbers, RegExp revisited | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+|Day 83|August 13, 2020| Promises, Async & Await | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+|Day 84|August 15, 2020| HTTP Requests | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
