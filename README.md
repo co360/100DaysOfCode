@@ -107,3 +107,7 @@
 |Day 82|August 12, 2020| Strings, Numbers, RegExp revisited | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
 |Day 83|August 13, 2020| Promises, Async & Await | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
 |Day 84|August 15, 2020| HTTP Requests | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+||| Personal portfolio | self-study|
+|Day 85|August 16, 2020| HTTP Requests | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
+||| Personal portfolio | self-study|
+|Day 86|August 17, 2020| Promises & Async JS | [Yandex Practicum](https://practicum.yandex.com/)|
