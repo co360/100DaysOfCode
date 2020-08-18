@@ -111,3 +111,4 @@
 |Day 85|August 16, 2020| HTTP Requests | [JavaScript - The Complete Guide 2020 (Udemy)](https://www.udemy.com/course/)|
 ||| Personal portfolio | self-study|
 |Day 86|August 17, 2020| Promises & Async JS | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 87|August 18, 2020| API & HTTP Requests | [Yandex Practicum](https://practicum.yandex.com/)|
