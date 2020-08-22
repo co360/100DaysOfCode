@@ -112,3 +112,6 @@
 ||| Personal portfolio | self-study|
 |Day 86|August 17, 2020| Promises & Async JS | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 87|August 18, 2020| API & HTTP Requests | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 88|August 19, 2020| Practicum: **Mesto project** part VI  | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 89|August 20, 2020| Practicum: **Mesto project** part VI  | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 90|August 22, 2020| Practicum: **Mesto project** part VI  | [Yandex Practicum](https://practicum.yandex.com/)|
