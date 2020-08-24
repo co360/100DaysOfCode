@@ -115,3 +115,5 @@
 |Day 88|August 19, 2020| Practicum: **Mesto project** part VI  | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 89|August 20, 2020| Practicum: **Mesto project** part VI  | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 90|August 22, 2020| Practicum: **Mesto project** part VI  | [Yandex Practicum](https://practicum.yandex.com/)|
+|Day 91|August 23, 2020| Practicum: **Mesto project** part VI finished  | [Yandex Practicum](https://practicum.yandex.com/)|
+||| **Working faster in VSCode** blog| [View Blog](https://dev.to/cat__logic/working-faster-in-vscode-255a)|
