@@ -117,3 +117,5 @@
 |Day 90|August 22, 2020| Practicum: **Mesto project** part VI  | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 91|August 23, 2020| Practicum: **Mesto project** part VI finished  | [Yandex Practicum](https://practicum.yandex.com/)|
 ||| **Working faster in VSCode** blog| [View Blog](https://dev.to/cat__logic/working-faster-in-vscode-255a)|
+|Day 92|August 24, 2020| CSS/HTML training | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
+|Day 93|August 25, 2020| Async/Promises webinar | [Yandex Practicum](https://practicum.yandex.com/)|
