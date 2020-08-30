@@ -120,3 +120,5 @@
 |Day 92|August 24, 2020| CSS/HTML training | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
 |Day 93|August 25, 2020| Async/Promises webinar | [Yandex Practicum](https://practicum.yandex.com/)|
 |Day 94|August 27, 2020| CSS/HTML/JS training | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
+|Day 95|August 29, 2020| CSS/HTML/JS training | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
+|Day 96|August 30, 2020| Webpack, Netlify, finished course | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
