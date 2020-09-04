@@ -122,3 +122,7 @@
 |Day 94|August 27, 2020| CSS/HTML/JS training | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
 |Day 95|August 29, 2020| CSS/HTML/JS training | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
 |Day 96|August 30, 2020| Webpack, Netlify, finished course | [Git a Web Developer Job (Udemy)](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)|
+|Day 97|August 31, 2020| **Personal Portfolio** project | self-study|
+|Day 98|September 1, 2020| **Personal Portfolio** project | self-study|
+|Day 99|September 2, 2020| **Personal Portfolio** project | self-study|
+|Day 100|September 3, 2020| **Personal Portfolio** project finished | [catlogic.ru](https://catlogic.ru)|
